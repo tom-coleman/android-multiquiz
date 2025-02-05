@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_dp_name">What is Deadpool\'s real name?</string>
+    <string name="question_dp_name_answer_0">Wade Wilson</string>
+    <string name="question_dp_name_answer_1">Tony Stark</string>
+    <string name="question_dp_name_answer_2">Logan</string>
+    <string name="question_dp_name_answer_3">Peter Parker</string>
+    <string name="question_dp_power">What is Deadpool\'s primary superpower?</string>
+    <string name="question_dp_power_answer_0">Super Strength</string>
+    <string name="question_dp_power_answer_1">Regeneration</string>
+    <string name="question_dp_power_answer_2">Teleportation</string>
+    <string name="question_dp_power_answer_3">Mind Control</string>
+    <string name="question_dp_weapon">What is Deadpool\'s primary weapon of choice?</string>
+    <string name="question_dp_weapon_answer_0">Gun</string>
+    <string name="question_dp_weapon_answer_1">Hammer</string>
+    <string name="question_dp_weapon_answer_2">Sword</string>
+    <string name="question_dp_weapon_answer_3">Shield</string>
+    <string name="question_dp_break">What is Deadpool best known for breaking?</string>
+    <string name="question_dp_break_answer_0">The Law</string>
+    <string name="question_dp_break_answer_1">The Sound Barrier</string>
+    <string name="question_dp_break_answer_2">Himself</string>
+    <string name="question_dp_break_answer_3">The Fourth Wall</string>
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="score_header">Quiz Score</string>
+    <string name="missing_score">\?</string>
+    <string name="reset_button">Reset Quiz</string>
+</resources>
